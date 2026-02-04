@@ -21,3 +21,6 @@ desktop.ini
 
 # dataview files
 !000_dataview/**/dataview.md
+
+# README files
+!README.md
