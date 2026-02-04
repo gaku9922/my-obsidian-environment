@@ -11,3 +11,13 @@ desktop.ini
 
 # --- Git / Lock files ---
 *.swp
+
+# --- Markdown Files ---
+*.md
+
+# --- Exceptions ---
+# template files
+!999_templates/**/*.md
+
+# dataview files
+!000_dataview.md
