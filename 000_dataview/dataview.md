@@ -1,6 +1,3 @@
----
-updated: 2026-02-04 18:42
----
 ## All docs
 
 ```dataview

@@ -7,7 +7,8 @@
   "historyNewestFirst": false,
   "historyMaxItems": 0,
   "excludedFolders": [
-    "999_templates"
+    "999_templates",
+    "000_dataview"
   ],
   "useKeyupEvents": false,
   "onlyUpdateExisting": false,
