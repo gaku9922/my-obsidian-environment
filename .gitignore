@@ -1,8 +1,8 @@
 # --- Obsidian ---
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-.obsidian/indexed*
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache/
+vault/.obsidian/indexed*
 
 # --- OS Specific ---
 .DS_Store
@@ -32,10 +32,10 @@ desktop.ini
 
 # --- Exceptions ---
 # template files
-!999_templates/**/*.md
+!vault/999_templates/**/*.md
 
 # dataview files
-!000_dataview/**/dataview.md
+!vault/000_dataview/**/dataview.md
 
 # README files
 !README.md
