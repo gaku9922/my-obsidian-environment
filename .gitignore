@@ -15,6 +15,21 @@ desktop.ini
 # --- Markdown Files ---
 *.md
 
+# --- Assets ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.pdf
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.zip
+*.canvas
+
 # --- Exceptions ---
 # template files
 !999_templates/**/*.md
