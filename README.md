@@ -5,7 +5,7 @@
 ## ディレクトリ構成
 
 ```
-.
+vault
 ├── 000_dataview/            # Dataviewクエリ集
 ├── 001_daily/               # デイリーノート
 ├── 999_assets/              # 画像やファイル
