@@ -7,4 +7,5 @@ TABLE
 FROM "" AND -"999_templates" AND -"999_assets"
 WHERE tags AND updated
 SORT updated DESC
+LIMIT 100
 ```
