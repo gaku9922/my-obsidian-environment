@@ -6,9 +6,8 @@
 
 ```
 .
-├── 000_dataview.md          # Dataviewクエリ集
+├── 000_dataview/            # Dataviewクエリ集
 ├── 001_daily/               # デイリーノート
-├── 002_note/                # 通常のノート
 ├── 999_assets/              # 画像やファイル
 └── 999_templates/           # テンプレートファイル
     ├── 000_default.md
