@@ -6,6 +6,4 @@ updated:
 ---
 ## TODO
 
-
-
 ## MEMO

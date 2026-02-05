@@ -1,5 +1,6 @@
 [
   "dataview",
   "templater-obsidian",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "obsidian-rollover-daily-todos"
 ]

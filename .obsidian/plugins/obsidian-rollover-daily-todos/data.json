@@ -1,0 +1,8 @@
+{
+  "templateHeading": "## TODO",
+  "deleteOnComplete": true,
+  "removeEmptyTodos": false,
+  "rolloverChildren": true,
+  "rolloverOnFileCreate": true,
+  "doneStatusMarkers": "xX-"
+}
